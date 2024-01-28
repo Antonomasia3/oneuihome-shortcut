@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Documentsui-shortcut"
+rootProject.name = "oneuihome-shortcut"
 include ':app'
