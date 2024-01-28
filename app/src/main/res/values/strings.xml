@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label" translatable="false">@string/files_label</string>
-    <string name="files_label">Files</string>
+    <string name="files_label">One UI Home</string>
 </resources>
