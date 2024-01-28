@@ -1,9 +1,8 @@
-# Documentsui-shortcut
+# oneuihome-shortcut
 
-Create shotcut to open system's native file exporer  
-using `content://com.android.externalstorage.documents/root/primary` with `android.intent.action.VIEW`
+Create shotcut to open samsung's native launcher
+using `com.sec.android.app.launcher.Launcher`
 
 support package name:  
 
-- com.android.documentsui
-- com.google.android.documentsui
+- com.sec.android.app.launcher
