@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.documentsui.shortcut'
+    namespace 'com.oneuihome.shortcut'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.documentsui.shortcut"
+        applicationId "com.oneuihome.shortcut"
         minSdk 26
         targetSdk 33
         versionCode 2
